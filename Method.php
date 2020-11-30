@@ -1,6 +1,6 @@
 <?php
 //cara penulisan class dan property OOP PHP - @pulung_coding
-class mobil{
+class tumbuhan{
   //property OOP
   var $warna;
   var $merek;
